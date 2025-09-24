@@ -1,4 +1,4 @@
-const url = 'https://streaming-availability.p.rapidapi.com/shows/%7Btype%7D/%7Bid%7D';
+const url = 'https://streaming-availability.p.rapidapi.com/shows/shows/tt0944947';
 const options = {
     method: 'GET',
     headers: {
